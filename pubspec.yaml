@@ -1,0 +1,16 @@
+name: ai_report_generator
+description: AI Report Generator with Wizard
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^8.0.0
+  http: ^1.1.0
+
+flutter:
+  uses-material-design: true
